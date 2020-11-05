@@ -108,8 +108,6 @@ img {
 .showcase-form {
     position: relative;
     top: 60px;
-    height: 340px;
-    width: 400px;
     z-index: 100;
 }
 
