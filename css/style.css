@@ -85,6 +85,10 @@ img {
     position: relative;
     color: #fff;
 }
+.language .card {
+    height: 125px;
+    width: 82px;
+}
 
 .showcase-text {
     position: relative;
