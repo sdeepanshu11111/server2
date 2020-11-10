@@ -63,6 +63,29 @@
 }
 
 
+/* Alert */
+
+.alert {
+    background-color: var(--light-color);
+    padding: 10px 20px;
+    margin: 15px 0;
+}
+
+.alert-success {
+    background-color: var(--success-color);
+    color: #fff;
+}
+
+.alert-error {
+    background-color: var(--error);
+    color: #fff;
+}
+
+.alert i {
+    margin-right: 10px;
+}
+
+
 /* Background & Color buttons */
 
 .bg-primary,
@@ -180,4 +203,8 @@
 
 .p-4 {
     padding: 2rem;
+}
+
+.text-primary {
+    color: var(--primary-color);
 }
